@@ -7,10 +7,8 @@ export const profile = {
   email: 'sherifafolabi04@gmail.com',
   phone: '+234 123 456 7890',
   photo: '',
-  about: [
+  about: 
     'I am a software developer in the making. I have learned React for the web and Flutter for mobile apps, and I am now building projects to put that knowledge into practice.',
-    'After a break from coding, I am back and fully committed to growing from beginner to experienced developer. This portfolio is one of the ways I am doing that.',
-  ],
 }
 
 export const skills = [
